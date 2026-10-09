@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AplikacjaKonsolowa.App/AplikacjaKonsolowa.App.csproj" />
+  <Project Path="OperacjeMatematyczne.Lib/OperacjeMatematyczne.Lib.csproj" />
+</Solution>
